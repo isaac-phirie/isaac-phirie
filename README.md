@@ -8,7 +8,7 @@ I build scalable web applications and craft high-quality digital experiences. As
 
 * 🌍  I'm based in South Africa ,Gauteng
 * ✉️  You can contact me at [isaacs.tshepo@gmail.com](mailto:isaacs.tshepo@gmail.com)
-* 🧠  I'm learning Python, AWS
+* 🧠  I'm learning Python, AWS Cloud
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
